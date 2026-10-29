@@ -115,5 +115,58 @@
     "url": "https://retroaitracker.com/news/2026-10"
    }
   ]
+ },
+ {
+  "id": "2026-10-w2",
+  "label": "10월 2주차",
+  "range": "10.12 – 10.18",
+  "coverTitle": "10월 2주차 AI 소식",
+  "coverSubtitle": "Grok 목소리 업그레이드와 DeepSeek 새 모델",
+  "news": [
+   {
+    "company": "Grok",
+    "title": "더 똑똑하게 말하는\nGrok Voice 3.0 출시",
+    "summary": [
+     "말로 묻고 말로 답하는 Grok의 새 음성 모델이에요.",
+     "1초 안쪽으로 빠르게 대답하고, 말 끊김도 자연스럽게 받아줘요.",
+     "가격은 이전 버전과 같게 유지됐어요."
+    ],
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-voice-3"
+   },
+   {
+    "company": "Grok",
+    "title": "Grok·X 프리미엄·Cursor를\n한 구독으로 묶었어요",
+    "summary": [
+     "'The X Subscription'이라는 통합 요금제가 나왔어요.",
+     "Grok 채팅, AI 코딩 도구 Cursor, X 프리미엄 기능을 함께 써요.",
+     "무료부터 여러 단계 요금제 중에서 고를 수 있어요."
+    ],
+    "source": "xAI",
+    "url": "https://x.ai/news/x-subscription"
+   },
+   {
+    "company": "DeepSeek",
+    "title": "더 빠르고 짧게 답하는\nDeepSeek V4.1-Flash 업데이트",
+    "summary": [
+     "DeepSeek가 V4.1-Flash 모델의 개선 버전을 내놨어요.",
+     "같은 일을 더 빨리, 더 짧은 답으로 끝내도록 다듬었대요.",
+     "모델 가중치도 공개돼서 누구나 내려받을 수 있어요."
+    ],
+    "source": "X / @deepseek_ai",
+    "url": "https://api-docs.deepseek.com/updates"
+   },
+   {
+    "company": "DeepSeek",
+    "title": "DeepSeek, 자체 검색 엔진을\n개발자에게 열었어요",
+    "summary": [
+     "AI가 웹을 검색하고 페이지를 읽어오는 API를 공개했어요.",
+     "DeepSeek가 직접 운영하는 검색 엔진을 바탕으로 해요.",
+     "AI 에이전트를 만드는 개발자들이 주로 쓰게 될 기능이에요."
+    ],
+    "source": "X / @deepseek_ai",
+    "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/"
+   }
+  ]
  }
 ]
