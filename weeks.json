@@ -130,8 +130,8 @@
      "작업 도중 필요한 정보를 사용자에게 물어볼 수도 있어요.",
      "지금은 Claude Code CLI에서 먼저 쓸 수 있어요."
     ],
-    "source": "Anthropic",
-    "url": "https://retroaitracker.com/news/2026-10"
+    "source": "Claude Code 공식 문서",
+    "url": "https://code.claude.com/docs/en/mcp"
    },
    {
     "company": "Claude",
@@ -213,8 +213,8 @@
      "DeepSeek가 직접 운영하는 검색 엔진을 바탕으로 해요.",
      "AI 에이전트를 만드는 개발자들이 주로 쓰게 될 기능이에요."
     ],
-    "source": "X / @deepseek_ai",
-    "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/"
+    "source": "DeepSeek API 공식 문서",
+    "url": "https://api-docs.deepseek.com/guides/search/"
    }
   ]
  }
