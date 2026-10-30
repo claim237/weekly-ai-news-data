@@ -2,7 +2,7 @@
  {
   "id": "2026-10-w4",
   "label": "10월 4주차",
-  "range": "10.26 – 10.29",
+  "range": "10.26 – 10.30",
   "coverTitle": "10월 4주차 AI 소식",
   "coverSubtitle": "보안 특화 Gemini부터 더 싸진 GPT까지",
   "news": [
@@ -77,6 +77,41 @@
     ],
     "source": "OpenAI",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+   },
+   {
+    "company": "ChatGPT",
+    "title": "OpenAI, AI 행동 규칙\n'Model Spec' 새 단장",
+    "summary": [
+     "AI가 어떻게 행동해야 하는지 정리한 공개 규칙을 고쳤어요.",
+     "사람의 의도 존중, 피해 최소화, 정직함 등 다섯 가치로 다시 묶었어요.",
+     "말 그대로만 따르기보다 진짜 의도를 이해하도록 하는 게 핵심이래요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/updated-model-spec"
+   },
+   {
+    "company": "Claude",
+    "title": "Claude Enterprise에\n사용 리포트·팀 예산 추가",
+    "summary": [
+     "팀이 Claude를 어떻게 쓰는지 분석해 주는 리포트가 생겼어요.",
+     "관리자가 직원들에게 앱 안에서 바로 설문을 보낼 수 있어요.",
+     "팀이 한 달 사용 예산을 함께 나눠 쓰는 기능도 들어왔어요."
+    ],
+    "source": "Anthropic",
+    "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-7.jpg",
+    "imageCredit": "이미지: Anthropic"
+   },
+   {
+    "company": "Gemini",
+    "title": "Gemini 앱에서\n문서·슬라이드 바로 만들고 고친다",
+    "summary": [
+     "채팅 안에서 문서, 시트, 슬라이드, PDF를 만들고 미리 볼 수 있어요.",
+     "직접 고치거나 Gemini에게 다듬어 달라고 할 수도 있어요.",
+     "모든 사용자에게 열렸고, PDF 편집은 모바일에서도 돼요."
+    ],
+    "source": "Google Workspace 블로그",
+    "url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html"
    }
   ]
  },
