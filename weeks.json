@@ -7,84 +7,6 @@
   "coverSubtitle": "오라클 앱 ChatGPT부터 카카오·KT 소식까지",
   "news": [
    {
-    "company": "Gemini",
-    "title": "구글, 보안에 강한\n'Gemini 4 Carbon' 공개",
-    "summary": [
-     "구글의 새 최상위 모델로 취약점 찾기와 패치에 강해요.",
-     "여러 날 걸리는 긴 작업도 이어서 처리하도록 만들었대요.",
-     "우선 일부 보안 전문가에게만 먼저 열어줬어요."
-    ],
-    "source": "Google 블로그",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-0.jpg",
-    "imageCredit": "이미지: Google",
-    "category": "model"
-   },
-   {
-    "company": "ChatGPT",
-    "title": "화면 조작 잘하는\nGPT-6.1 Terra 출시",
-    "summary": [
-     "컴퓨터 화면을 보고 클릭·입력하는 작업에 맞춘 모델이에요.",
-     "API 가격이 이전 Terra 모델의 절반 수준으로 내려갔어요.",
-     "ChatGPT 유료 요금제와 Codex에서 바로 쓸 수 있어요."
-    ],
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "category": "model"
-   },
-   {
-    "company": "Gemini",
-    "title": "말로 조종하는 가상세계\nGenie 4 공개",
-    "summary": [
-     "글로 지시하면 실시간으로 움직이는 3D 세계를 만들어요.",
-     "장면에 맞는 소리, 음악, 대사까지 함께 만들어져요.",
-     "아직은 일부 테스터만 써볼 수 있는 연구 버전이에요."
-    ],
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-2.jpg",
-    "imageCredit": "이미지: Google DeepMind",
-    "category": "model"
-   },
-   {
-    "company": "ChatGPT",
-    "title": "OpenAI 모델,\n구글 클라우드에서도 쓴다",
-    "summary": [
-     "구글 클라우드의 Model Garden에서 OpenAI 모델을 고를 수 있게 돼요.",
-     "기업은 구글 클라우드 보안·관리 기능과 함께 쓸 수 있어요.",
-     "정식 제공은 앞으로 몇 주 안에 시작될 예정이에요."
-    ],
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-models-google-cloud/",
-    "category": "tool"
-   },
-   {
-    "company": "Claude",
-    "title": "비영리단체용\nClaude 플러그인 출시",
-    "summary": [
-     "모금, 홍보, 채용 같은 비영리 업무용 기능을 묶었어요.",
-     "약 30개 단체와 함께 직접 만들었다고 해요.",
-     "이미 2만 5천 곳 넘는 비영리단체가 Claude를 쓰고 있대요."
-    ],
-    "source": "Anthropic",
-    "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-4.jpg",
-    "imageCredit": "이미지: Anthropic",
-    "category": "tool"
-   },
-   {
-    "company": "ChatGPT",
-    "title": "AI가 풀었다?\n수학 난제 결과 발표",
-    "summary": [
-     "OpenAI가 자사 모델이 수학·컴퓨터과학 난제를 풀었다고 밝혔어요.",
-     "카케야 추측 관련 증명 등이 포함돼 있어요.",
-     "외부 전문가들이 지금 증명을 검토하고 있어요."
-    ],
-    "source": "OpenAI",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "category": "model"
-   },
-   {
     "company": "ChatGPT",
     "title": "OpenAI, AI 행동 규칙\n'Model Spec' 새 단장",
     "summary": [
@@ -94,21 +16,8 @@
     ],
     "source": "OpenAI",
     "url": "https://openai.com/index/updated-model-spec",
-    "category": "policy"
-   },
-   {
-    "company": "Claude",
-    "title": "Claude Enterprise에\n사용 리포트·팀 예산 추가",
-    "summary": [
-     "팀이 Claude를 어떻게 쓰는지 분석해 주는 리포트가 생겼어요.",
-     "관리자가 직원들에게 앱 안에서 바로 설문을 보낼 수 있어요.",
-     "팀이 한 달 사용 예산을 함께 나눠 쓰는 기능도 들어왔어요."
-    ],
-    "source": "Anthropic",
-    "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-7.jpg",
-    "imageCredit": "이미지: Anthropic",
-    "category": "tool"
+    "category": "policy",
+    "date": "2026-10-29"
    },
    {
     "company": "Gemini",
@@ -120,49 +29,8 @@
     ],
     "source": "Google Workspace 블로그",
     "url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html",
-    "category": "tool"
-   },
-   {
-    "company": "OpenAI",
     "category": "tool",
-    "title": "ChatGPT 안에서 바로 쓰는\n오라클 업무 앱",
-    "summary": [
-     "OpenAI와 오라클이 ChatGPT 안에서 쓰는 오라클 앱을 내놨어요.",
-     "대화하면서 회사의 재무·인사 같은 오라클 데이터를 바로 다룰 수 있어요.",
-     "보안 기능과 중소기업용 묶음 상품도 함께 공개됐어요."
-    ],
-    "source": "OpenAI 블로그",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-9.jpg",
-    "imageCredit": "이미지: OpenAI"
-   },
-   {
-    "company": "Microsoft",
-    "category": "tool",
-    "title": "여러 AI 모델을 한 번에 부리는\nCopilot 하네스 공개",
-    "summary": [
-     "마이크로소프트가 여러 AI 모델을 함께 쓰게 해 주는 'Copilot 하네스'를 공개했어요.",
-     "GitHub 팀이 만든 기술로, Copilot Studio와 VS Code 등이 이미 이걸로 돌아가요.",
-     "이제 기업들도 Microsoft Foundry에서 이 기반을 가져다 쓸 수 있어요."
-    ],
-    "source": "Microsoft 공식 블로그",
-    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-10.jpg",
-    "imageCredit": "이미지: Microsoft"
-   },
-   {
-    "company": "Runway",
-    "category": "tool",
-    "title": "말로 설명하면 뚝딱\nRunway 앱 스튜디오",
-    "summary": [
-     "Runway가 나만의 AI 창작 앱을 만드는 'App Studio'를 출시했어요.",
-     "코딩 없이 원하는 기능을 말로 설명하면 이미지·영상·오디오 앱이 만들어져요.",
-     "만든 앱은 팀원이나 다른 Runway 사용자와 쉽게 나눌 수 있어요."
-    ],
-    "source": "Runway 뉴스",
-    "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-11.jpg",
-    "imageCredit": "이미지: Runway"
+    "date": "2026-10-29"
    },
    {
     "company": "ElevenLabs",
@@ -176,21 +44,8 @@
     "source": "ElevenLabs 블로그",
     "url": "https://elevenlabs.io/blog/sound-effects-v3",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-12.jpg",
-    "imageCredit": "이미지: ElevenLabs"
-   },
-   {
-    "company": "NVIDIA",
-    "category": "media",
-    "title": "받아쓰기·번역을 한 모델로\nNemotron 3.5 Transcribe",
-    "summary": [
-     "NVIDIA가 음성 인식 모델 Nemotron 3.5 Transcribe를 공개했어요.",
-     "여러 언어 받아쓰기, 누가 말했는지 구분, 번역까지 한 모델이 해요.",
-     "학습에 쓴 대규모 음성 데이터셋 Granary v2도 함께 공개했어요."
-    ],
-    "source": "Hugging Face 블로그",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-13.jpg",
-    "imageCredit": "이미지: NVIDIA"
+    "imageCredit": "이미지: ElevenLabs",
+    "date": "2026-10-29"
    },
    {
     "company": "카카오",
@@ -204,7 +59,8 @@
     "source": "카카오 보도자료",
     "url": "https://www.kakaocorp.com/page/detail/12181",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-14.jpg",
-    "imageCredit": "이미지: 카카오"
+    "imageCredit": "이미지: 카카오",
+    "date": "2026-10-29"
    },
    {
     "company": "KT",
@@ -216,7 +72,8 @@
      "오픈 기념으로 11월 30일까지 KT 서빙 모델 7종을 30% 할인해요."
     ],
     "source": "KT 토큰팩토리 공지",
-    "url": "https://tokenfactory.kt.com/notices"
+    "url": "https://tokenfactory.kt.com/notices",
+    "date": "2026-10-29"
    },
    {
     "company": "Mistral",
@@ -230,7 +87,8 @@
     "source": "Mistral 공식 블로그",
     "url": "https://mistral.ai/news/mistral-large-4-oss/",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-16.jpg",
-    "imageCredit": "이미지: Mistral"
+    "imageCredit": "이미지: Mistral",
+    "date": "2026-10-29"
    },
    {
     "company": "Hugging Face",
@@ -244,35 +102,8 @@
     "source": "Hugging Face 블로그",
     "url": "https://huggingface.co/blog/anydecisionmodel",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-17.jpg",
-    "imageCredit": "이미지: Hugging Face"
-   },
-   {
-    "company": "xAI",
-    "category": "tip",
-    "title": "영업팀에 AI 동료를 두는 법\nxAI의 공유 봇 활용기",
-    "summary": [
-     "xAI 영업팀이 공유 Grok Bot을 실제로 어떻게 쓰는지 공개했어요.",
-     "고객 조사, 견적 작성, 계약 검토를 각각 맡는 봇 3개를 만들었대요.",
-     "팀이 같은 봇을 함께 고쳐 쓰면 모두가 바로 혜택을 본다는 팁이에요."
-    ],
-    "source": "xAI 블로그",
-    "url": "https://x.ai/news/grok-bot-sales",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-18.jpg",
-    "imageCredit": "이미지: xAI"
-   },
-   {
-    "company": "Google",
-    "category": "tip",
-    "title": "게임으로 배우는 AI\n구글 AI 퀘스트 '뇌 지도'",
-    "summary": [
-     "구글이 AI 교육 게임 'AI Quests'의 세 번째 수업을 공개했어요.",
-     "11~14세 학생이 연구자가 되어 AI로 뇌 신경세포 지도를 만들어 봐요.",
-     "선생님을 위한 교육 자료도 함께 나와 수업에 바로 쓸 수 있어요."
-    ],
-    "source": "Google 블로그",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-19.jpg",
-    "imageCredit": "이미지: Google"
+    "imageCredit": "이미지: Hugging Face",
+    "date": "2026-10-29"
    },
    {
     "company": "OpenAI",
@@ -286,7 +117,113 @@
     "source": "OpenAI 블로그",
     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-20.jpg",
-    "imageCredit": "이미지: OpenAI"
+    "imageCredit": "이미지: OpenAI",
+    "date": "2026-10-29"
+   },
+   {
+    "company": "Gemini",
+    "title": "구글, 보안에 강한\n'Gemini 4 Carbon' 공개",
+    "summary": [
+     "구글의 새 최상위 모델로 취약점 찾기와 패치에 강해요.",
+     "여러 날 걸리는 긴 작업도 이어서 처리하도록 만들었대요.",
+     "우선 일부 보안 전문가에게만 먼저 열어줬어요."
+    ],
+    "source": "Google 블로그",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-0.jpg",
+    "imageCredit": "이미지: Google",
+    "category": "model",
+    "date": "2026-10-28"
+   },
+   {
+    "company": "Claude",
+    "title": "Claude Enterprise에\n사용 리포트·팀 예산 추가",
+    "summary": [
+     "팀이 Claude를 어떻게 쓰는지 분석해 주는 리포트가 생겼어요.",
+     "관리자가 직원들에게 앱 안에서 바로 설문을 보낼 수 있어요.",
+     "팀이 한 달 사용 예산을 함께 나눠 쓰는 기능도 들어왔어요."
+    ],
+    "source": "Anthropic",
+    "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-7.jpg",
+    "imageCredit": "이미지: Anthropic",
+    "category": "tool",
+    "date": "2026-10-28"
+   },
+   {
+    "company": "Microsoft",
+    "category": "tool",
+    "title": "여러 AI 모델을 한 번에 부리는\nCopilot 하네스 공개",
+    "summary": [
+     "마이크로소프트가 여러 AI 모델을 함께 쓰게 해 주는 'Copilot 하네스'를 공개했어요.",
+     "GitHub 팀이 만든 기술로, Copilot Studio와 VS Code 등이 이미 이걸로 돌아가요.",
+     "이제 기업들도 Microsoft Foundry에서 이 기반을 가져다 쓸 수 있어요."
+    ],
+    "source": "Microsoft 공식 블로그",
+    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-10.jpg",
+    "imageCredit": "이미지: Microsoft",
+    "date": "2026-10-28"
+   },
+   {
+    "company": "NVIDIA",
+    "category": "media",
+    "title": "받아쓰기·번역을 한 모델로\nNemotron 3.5 Transcribe",
+    "summary": [
+     "NVIDIA가 음성 인식 모델 Nemotron 3.5 Transcribe를 공개했어요.",
+     "여러 언어 받아쓰기, 누가 말했는지 구분, 번역까지 한 모델이 해요.",
+     "학습에 쓴 대규모 음성 데이터셋 Granary v2도 함께 공개했어요."
+    ],
+    "source": "Hugging Face 블로그",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-13.jpg",
+    "imageCredit": "이미지: NVIDIA",
+    "date": "2026-10-28"
+   },
+   {
+    "company": "Gemini",
+    "title": "말로 조종하는 가상세계\nGenie 4 공개",
+    "summary": [
+     "글로 지시하면 실시간으로 움직이는 3D 세계를 만들어요.",
+     "장면에 맞는 소리, 음악, 대사까지 함께 만들어져요.",
+     "아직은 일부 테스터만 써볼 수 있는 연구 버전이에요."
+    ],
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-2.jpg",
+    "imageCredit": "이미지: Google DeepMind",
+    "category": "model",
+    "date": "2026-10-27"
+   },
+   {
+    "company": "OpenAI",
+    "category": "tool",
+    "title": "ChatGPT 안에서 바로 쓰는\n오라클 업무 앱",
+    "summary": [
+     "OpenAI와 오라클이 ChatGPT 안에서 쓰는 오라클 앱을 내놨어요.",
+     "대화하면서 회사의 재무·인사 같은 오라클 데이터를 바로 다룰 수 있어요.",
+     "보안 기능과 중소기업용 묶음 상품도 함께 공개됐어요."
+    ],
+    "source": "OpenAI 블로그",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-9.jpg",
+    "imageCredit": "이미지: OpenAI",
+    "date": "2026-10-27"
+   },
+   {
+    "company": "xAI",
+    "category": "tip",
+    "title": "영업팀에 AI 동료를 두는 법\nxAI의 공유 봇 활용기",
+    "summary": [
+     "xAI 영업팀이 공유 Grok Bot을 실제로 어떻게 쓰는지 공개했어요.",
+     "고객 조사, 견적 작성, 계약 검토를 각각 맡는 봇 3개를 만들었대요.",
+     "팀이 같은 봇을 함께 고쳐 쓰면 모두가 바로 혜택을 본다는 팁이에요."
+    ],
+    "source": "xAI 블로그",
+    "url": "https://x.ai/news/grok-bot-sales",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-18.jpg",
+    "imageCredit": "이미지: xAI",
+    "date": "2026-10-27"
    },
    {
     "company": "Anthropic",
@@ -300,7 +237,79 @@
     "source": "Anthropic 뉴스",
     "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-21.jpg",
-    "imageCredit": "이미지: Anthropic"
+    "imageCredit": "이미지: Anthropic",
+    "date": "2026-10-27"
+   },
+   {
+    "company": "ChatGPT",
+    "title": "화면 조작 잘하는\nGPT-6.1 Terra 출시",
+    "summary": [
+     "컴퓨터 화면을 보고 클릭·입력하는 작업에 맞춘 모델이에요.",
+     "API 가격이 이전 Terra 모델의 절반 수준으로 내려갔어요.",
+     "ChatGPT 유료 요금제와 Codex에서 바로 쓸 수 있어요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "category": "model",
+    "date": "2026-10-26"
+   },
+   {
+    "company": "Claude",
+    "title": "비영리단체용\nClaude 플러그인 출시",
+    "summary": [
+     "모금, 홍보, 채용 같은 비영리 업무용 기능을 묶었어요.",
+     "약 30개 단체와 함께 직접 만들었다고 해요.",
+     "이미 2만 5천 곳 넘는 비영리단체가 Claude를 쓰고 있대요."
+    ],
+    "source": "Anthropic",
+    "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-4.jpg",
+    "imageCredit": "이미지: Anthropic",
+    "category": "tool",
+    "date": "2026-10-26"
+   },
+   {
+    "company": "ChatGPT",
+    "title": "AI가 풀었다?\n수학 난제 결과 발표",
+    "summary": [
+     "OpenAI가 자사 모델이 수학·컴퓨터과학 난제를 풀었다고 밝혔어요.",
+     "카케야 추측 관련 증명 등이 포함돼 있어요.",
+     "외부 전문가들이 지금 증명을 검토하고 있어요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "category": "model",
+    "date": "2026-10-26"
+   },
+   {
+    "company": "Runway",
+    "category": "tool",
+    "title": "말로 설명하면 뚝딱\nRunway 앱 스튜디오",
+    "summary": [
+     "Runway가 나만의 AI 창작 앱을 만드는 'App Studio'를 출시했어요.",
+     "코딩 없이 원하는 기능을 말로 설명하면 이미지·영상·오디오 앱이 만들어져요.",
+     "만든 앱은 팀원이나 다른 Runway 사용자와 쉽게 나눌 수 있어요."
+    ],
+    "source": "Runway 뉴스",
+    "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-11.jpg",
+    "imageCredit": "이미지: Runway",
+    "date": "2026-10-26"
+   },
+   {
+    "company": "Google",
+    "category": "tip",
+    "title": "게임으로 배우는 AI\n구글 AI 퀘스트 '뇌 지도'",
+    "summary": [
+     "구글이 AI 교육 게임 'AI Quests'의 세 번째 수업을 공개했어요.",
+     "11~14세 학생이 연구자가 되어 AI로 뇌 신경세포 지도를 만들어 봐요.",
+     "선생님을 위한 교육 자료도 함께 나와 수업에 바로 쓸 수 있어요."
+    ],
+    "source": "Google 블로그",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-19.jpg",
+    "imageCredit": "이미지: Google",
+    "date": "2026-10-26"
    }
   ]
  },
@@ -312,6 +321,19 @@
   "coverSubtitle": "Claude Code 업데이트와 AI 안전 이야기",
   "news": [
    {
+    "company": "ChatGPT",
+    "title": "OpenAI, 모델 학습을\n인터넷과 분리",
+    "summary": [
+     "최신 모델은 이제 인터넷 연결 없이 학습시킨대요.",
+     "학습·평가 환경의 보안도 한층 강화했어요.",
+     "앞서 있었던 보안 사고를 계기로 바꾼 조치예요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "category": "model",
+    "date": "2026-10-23"
+   },
+   {
     "company": "Claude",
     "title": "Claude Code,\n오래 걸리는 작업도 척척",
     "summary": [
@@ -321,7 +343,8 @@
     ],
     "source": "Claude Code 공식 문서",
     "url": "https://code.claude.com/docs/en/mcp",
-    "category": "model"
+    "category": "model",
+    "date": "2026-10-22"
    },
    {
     "company": "Claude",
@@ -335,19 +358,21 @@
     "url": "https://www.anthropic.com/research/formal-verification",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w3-1.jpg",
     "imageCredit": "이미지: Anthropic",
-    "category": "model"
+    "category": "model",
+    "date": "2026-10-22"
    },
    {
     "company": "ChatGPT",
-    "title": "OpenAI, 모델 학습을\n인터넷과 분리",
+    "title": "OpenAI 모델,\n구글 클라우드에서도 쓴다",
     "summary": [
-     "최신 모델은 이제 인터넷 연결 없이 학습시킨대요.",
-     "학습·평가 환경의 보안도 한층 강화했어요.",
-     "앞서 있었던 보안 사고를 계기로 바꾼 조치예요."
+     "구글 클라우드의 Model Garden에서 OpenAI 모델을 고를 수 있게 돼요.",
+     "기업은 구글 클라우드 보안·관리 기능과 함께 쓸 수 있어요.",
+     "정식 제공은 앞으로 몇 주 안에 시작될 예정이에요."
     ],
     "source": "OpenAI",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "category": "model"
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "category": "tool",
+    "date": "2026-10-21"
    }
   ]
  },
@@ -358,6 +383,34 @@
   "coverTitle": "10월 2주차 AI 소식",
   "coverSubtitle": "Grok 목소리 업그레이드와 DeepSeek 새 모델",
   "news": [
+   {
+    "company": "DeepSeek",
+    "title": "더 빠르고 짧게 답하는\nDeepSeek V4.1-Flash 업데이트",
+    "summary": [
+     "DeepSeek가 V4.1-Flash 모델의 개선 버전을 내놨어요.",
+     "같은 일을 더 빨리, 더 짧은 답으로 끝내도록 다듬었대요.",
+     "모델 가중치도 공개돼서 누구나 내려받을 수 있어요."
+    ],
+    "source": "DeepSeek 공식 문서",
+    "url": "https://api-docs.deepseek.com/updates",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w2-2.jpg",
+    "imageCredit": "이미지: DeepSeek",
+    "category": "model",
+    "date": "2026-10-17"
+   },
+   {
+    "company": "DeepSeek",
+    "title": "DeepSeek, 자체 검색 엔진을\n개발자에게 열었어요",
+    "summary": [
+     "AI가 웹을 검색하고 페이지를 읽어오는 API를 공개했어요.",
+     "DeepSeek가 직접 운영하는 검색 엔진을 바탕으로 해요.",
+     "AI 에이전트를 만드는 개발자들이 주로 쓰게 될 기능이에요."
+    ],
+    "source": "DeepSeek API 공식 문서",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "category": "model",
+    "date": "2026-10-17"
+   },
    {
     "company": "Grok",
     "title": "더 똑똑하게 말하는\nGrok Voice 3.0 출시",
@@ -370,7 +423,8 @@
     "url": "https://x.ai/news/grok-voice-3",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w2-0.jpg",
     "imageCredit": "이미지: xAI",
-    "category": "model"
+    "category": "model",
+    "date": "2026-10-14"
    },
    {
     "company": "Grok",
@@ -384,33 +438,8 @@
     "url": "https://x.ai/news/x-subscription",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w2-1.jpg",
     "imageCredit": "이미지: xAI",
-    "category": "model"
-   },
-   {
-    "company": "DeepSeek",
-    "title": "더 빠르고 짧게 답하는\nDeepSeek V4.1-Flash 업데이트",
-    "summary": [
-     "DeepSeek가 V4.1-Flash 모델의 개선 버전을 내놨어요.",
-     "같은 일을 더 빨리, 더 짧은 답으로 끝내도록 다듬었대요.",
-     "모델 가중치도 공개돼서 누구나 내려받을 수 있어요."
-    ],
-    "source": "DeepSeek 공식 문서",
-    "url": "https://api-docs.deepseek.com/updates",
-    "image": "https://claim237.github.io/weekly-ai-news-data/images/w2-2.jpg",
-    "imageCredit": "이미지: DeepSeek",
-    "category": "model"
-   },
-   {
-    "company": "DeepSeek",
-    "title": "DeepSeek, 자체 검색 엔진을\n개발자에게 열었어요",
-    "summary": [
-     "AI가 웹을 검색하고 페이지를 읽어오는 API를 공개했어요.",
-     "DeepSeek가 직접 운영하는 검색 엔진을 바탕으로 해요.",
-     "AI 에이전트를 만드는 개발자들이 주로 쓰게 될 기능이에요."
-    ],
-    "source": "DeepSeek API 공식 문서",
-    "url": "https://api-docs.deepseek.com/guides/search/",
-    "category": "model"
+    "category": "model",
+    "date": "2026-10-12"
    }
   ]
  }
