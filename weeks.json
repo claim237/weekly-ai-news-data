@@ -2,10 +2,40 @@
  {
   "id": "2026-10-w4",
   "label": "10월 4주차",
-  "range": "10.26 – 10.30",
+  "range": "10.26 – 10.31",
   "coverTitle": "10월 4주차 AI 소식",
-  "coverSubtitle": "OpenAI 학습 거부 신호부터 Gemini 4 Carbon까지",
+  "coverSubtitle": "Claude Ultra 요금제부터 Gemini 4 Carbon까지",
   "news": [
+   {
+    "company": "Claude",
+    "category": "tool",
+    "date": "2026-10-31",
+    "title": "Claude 요금제 이름 변경\nUltra는 5시간 제한 없앤다",
+    "summary": [
+     "Claude의 Max 5x 요금제는 'Max'로, Max 20x는 'Ultra'로 이름이 바뀌어요.",
+     "가격은 그대로라서 구독자는 따로 할 일이 없어요.",
+     "인증된 Ultra 계정은 5시간 사용 제한이 없어지기 시작해요."
+    ],
+    "source": "X @claudeai",
+    "url": "https://x.com/claudeai/status/2116220869479428500",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-22.jpg",
+    "imageCredit": "이미지: Anthropic"
+   },
+   {
+    "company": "Runway",
+    "category": "media",
+    "date": "2026-10-31",
+    "title": "파일 열고 코드도 돌리는\nRunway 에이전트 업그레이드",
+    "summary": [
+     "Runway 에이전트가 이제 생성만 하지 않고 파일을 열고 코드도 실행해요.",
+     "브랜드 출시 자료와 제품 사진, 광고 시안을 알아서 만들어 줘요.",
+     "참고 영상을 주면 비슷한 모션 그래픽도 만들 수 있어요."
+    ],
+    "source": "X @runwayml",
+    "url": "https://x.com/runwayml/status/2116227954518978729",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-23.jpg",
+    "imageCredit": "이미지: Runway"
+   },
    {
     "company": "OpenAI",
     "category": "policy",
@@ -31,6 +61,34 @@
     ],
     "source": "OpenAI",
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+   },
+   {
+    "company": "Gemini",
+    "category": "tool",
+    "date": "2026-10-30",
+    "title": "내 아바타로 친구와 함께\nGemini 이미지·영상 만들기",
+    "summary": [
+     "Gemini에서 내 아바타를 만들어 친구와 공유할 수 있어요.",
+     "프롬프트에 친구를 태그하면 같은 얼굴과 목소리로 이미지와 영상에 나와요.",
+     "누가 내 아바타를 쓸 수 있는지는 언제든 직접 정할 수 있어요."
+    ],
+    "source": "X @GeminiApp",
+    "url": "https://x.com/GeminiApp/status/2115885244805251519"
+   },
+   {
+    "company": "Claude",
+    "category": "tool",
+    "date": "2026-10-30",
+    "title": "Claude API 요청 크기\n32MB에서 128MB로 확대",
+    "summary": [
+     "Claude API에 한 번에 보낼 수 있는 요청 크기가 128MB로 늘었어요.",
+     "이미지가 많은 작업이나 큰 PDF도 이제 잘리지 않고 보낼 수 있어요.",
+     "메시지 API와 토큰 세기 API 모두에 적용돼요."
+    ],
+    "source": "X @ClaudeDevs",
+    "url": "https://x.com/ClaudeDevs/status/2115923971279614171",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-24.jpg",
+    "imageCredit": "이미지: Anthropic"
    },
    {
     "company": "ChatGPT",
@@ -158,6 +216,21 @@
     ],
     "source": "Cursor 블로그",
     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+   },
+   {
+    "company": "xAI",
+    "category": "tool",
+    "date": "2026-10-29",
+    "title": "내 규칙대로 답하게\nGrok API 가이드라인 기능",
+    "summary": [
+     "Grok API 요청에 'guidelines'를 넣어 특정 주제를 어떻게 다룰지 정할 수 있어요.",
+     "Grok은 그 규칙을 지키면서 자기 말로 답을 써요.",
+     "모든 API 고객이 바로 쓸 수 있어요."
+    ],
+    "source": "X @grok",
+    "url": "https://x.com/grok/status/2115584612122718296",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-25.jpg",
+    "imageCredit": "이미지: xAI"
    },
    {
     "company": "Gemini",
