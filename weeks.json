@@ -4,8 +4,26 @@
   "label": "10월 4주차",
   "range": "10.26 – 10.30",
   "coverTitle": "10월 4주차 AI 소식",
-  "coverSubtitle": "오라클 앱 ChatGPT부터 카카오·KT 소식까지",
+  "coverSubtitle": "OpenAI 학습 거부 신호부터 Gemini 4 Carbon까지",
   "news": [
+   {
+    "company": "OpenAI",
+    "category": "policy",
+    "date": "2026-10-30",
+    "title": "내 사이트 AI 학습 거부,\nrobots.txt 한 줄로",
+    "summary": "OpenAI가 웹사이트 운영자가 AI 학습 허용 여부를 알릴 수 있는 공통 robots.txt 신호를 따르겠다고 밝혔어요. 이 신호를 쓰면 참여하는 여러 AI 회사에 한 번에 뜻을 전할 수 있어요. 사이트 주인이 자기 콘텐츠의 쓰임새를 더 쉽게 고를 수 있게 되는 셈이에요.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+   },
+   {
+    "company": "ChatGPT",
+    "category": "policy",
+    "date": "2026-10-30",
+    "title": "ChatGPT, 청소년 보호와\n폭력 예방 장치 강화",
+    "summary": "OpenAI가 ChatGPT에서 폭력을 막기 위한 안전장치를 넓히고 더 일찍 개입하도록 바꿨어요. 청소년을 위한 새 보호 기능도 함께 내놓았어요. 앞으로는 이런 안전 활동을 정기 보고서로 공개하겠다고 약속했어요.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+   },
    {
     "company": "ChatGPT",
     "title": "OpenAI, AI 행동 규칙\n'Model Spec' 새 단장",
@@ -119,6 +137,15 @@
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-20.jpg",
     "imageCredit": "이미지: OpenAI",
     "date": "2026-10-29"
+   },
+   {
+    "company": "Cursor",
+    "category": "tool",
+    "date": "2026-10-29",
+    "title": "Cursor 마켓의 가짜\nClaude Code 확장 주의보",
+    "summary": "Cursor 확장 마켓에 Anthropic이 만들지 않은 악성 Claude Code 확장 2.1.312·2.1.313 버전이 잠시 올라왔어요. 이 확장은 컴퓨터 정보를 빼내고 원격 접속 통로를 심으려 했지만 공격 서버는 이미 차단됐어요. 해당 버전을 설치했다면 Cursor 공지에 나온 확인·조치 방법을 꼭 따라 주세요.",
+    "source": "Cursor 블로그",
+    "url": "https://cursor.com/blog/claude-code-extension-security-notice"
    },
    {
     "company": "Gemini",
