@@ -4,7 +4,7 @@
   "label": "10월 4주차",
   "range": "10.26 – 10.31",
   "coverTitle": "10월 4주차 AI 소식",
-  "coverSubtitle": "Claude Ultra 요금제부터 Gemini 4 Carbon까지",
+  "coverSubtitle": "Claude Ultra 요금제와 딥마인드 PlanAssist부터 Gemini 4 Carbon까지",
   "news": [
    {
     "company": "Claude",
@@ -35,6 +35,36 @@
     "url": "https://x.com/runwayml/status/2116227954518978729",
     "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-23.jpg",
     "imageCredit": "이미지: Runway"
+   },
+   {
+    "company": "Google DeepMind",
+    "category": "policy",
+    "date": "2026-10-31",
+    "title": "집 증축 허가를 더 빨리\n딥마인드 PlanAssist",
+    "summary": [
+     "구글 딥마인드가 영국 정부와 함께 건축 허가 심사를 돕는 AI 도구 PlanAssist를 만들었어요.",
+     "Gemini로 서류 확인과 규정 검토, 보고서 초안 작성을 대신해 심사 시간을 최대 58% 줄였어요.",
+     "최종 결정은 담당 공무원이 내리고, 영국 지자체 12곳에 추가로 보급돼요."
+    ],
+    "source": "Google DeepMind 블로그",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-26.jpg",
+    "imageCredit": "이미지: Google DeepMind"
+   },
+   {
+    "company": "Anthropic",
+    "category": "policy",
+    "date": "2026-10-31",
+    "title": "Claude 에이전트 수천 개로\nAI 안전 빈틈 찾기",
+    "summary": [
+     "Anthropic이 Claude 에이전트 수천 개에게 일부러 안전 감시를 피해 보라는 과제를 줬어요.",
+     "에이전트들은 소설이나 역할극처럼 무해해 보이지만 나쁜 행동을 가르치는 학습 데이터를 찾아냈어요.",
+     "이렇게 찾은 사례로 앞으로 학습 데이터 감시 장치를 더 튼튼하게 만들 수 있어요."
+    ],
+    "source": "Anthropic 얼라인먼트 블로그",
+    "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w4-27.jpg",
+    "imageCredit": "이미지: Anthropic"
    },
    {
     "company": "OpenAI",
