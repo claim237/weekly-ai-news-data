@@ -1,5 +1,70 @@
 [
  {
+  "id": "2026-11-w1",
+  "label": "11월 1주차",
+  "range": "11.2 – 11.8",
+  "coverTitle": "11월 1주차 AI 소식",
+  "coverSubtitle": "OpenAI LifeVal과 Claude API 메시지 스레드부터 Runway의 Cursor 플러그인까지",
+  "news": [
+   {
+    "company": "OpenAI",
+    "category": "model",
+    "date": "2026-11-02",
+    "title": "육아·서류·가계부까지\n생활 도움 재는 LifeVal",
+    "summary": [
+     "OpenAI가 AI가 일상 일을 얼마나 잘 돕는지 재는 새 평가 기준 LifeVal을 공개했어요.",
+     "아이 돌봄 찾기, 정부 서비스 이용, 돈 관리처럼 ChatGPT 사용자 수천 명이 원한 일들로 만들었어요.",
+     "OpenAI는 지난 1년 동안 이 기준으로 모델을 재고 다듬어 왔다고 해요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/lifeval",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-0.jpg",
+    "imageCredit": "이미지: OpenAI"
+   },
+   {
+    "company": "OpenAI",
+    "category": "policy",
+    "date": "2026-11-02",
+    "title": "전기요금 지키는\nOpenAI 그리드 프로텍터",
+    "summary": [
+     "OpenAI가 전력회사와 함께하는 '그리드 프로텍터' 프로그램을 시작했어요.",
+     "앞으로 지을 AI 데이터센터가 전력망을 더 안정적으로 만드는 데 힘을 보태게 하려는 거예요.",
+     "AI 때문에 일반 가정의 전기요금이 오르지 않도록 하는 것도 목표예요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/grid-protectors-program"
+   },
+   {
+    "company": "Claude",
+    "category": "tool",
+    "date": "2026-11-02",
+    "title": "대화를 서버가 기억한다\nClaude API 메시지 스레드",
+    "summary": [
+     "Claude Messages API에 메시지 스레드 기능이 공개 베타로 나왔어요.",
+     "서버가 대화를 기억해 두어서 전체 대화를 매번 다시 보낼 필요가 없어요.",
+     "새 메시지와 이전 메시지 ID만 보내면 Claude가 더 빨리 답하기 시작해요."
+    ],
+    "source": "X @ClaudeDevs",
+    "url": "https://x.com/ClaudeDevs/status/2117332449382510884"
+   },
+   {
+    "company": "Runway",
+    "category": "media",
+    "date": "2026-11-02",
+    "title": "플러그인 하나로\nCursor에서 Runway 영상 AI",
+    "summary": [
+     "Runway가 Cursor용 플러그인을 내놨어요.",
+     "플러그인을 한 번 설치하면 Cursor가 Runway API를 내 앱에 넣는 방법을 알게 돼요.",
+     "앱이 무엇을 만들어야 하는지 말로 설명하면 Cursor가 연결 코드를 대신 짜 줘요."
+    ],
+    "source": "X @runwayml",
+    "url": "https://x.com/runwayml/status/2117341561759629709",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-2.jpg",
+    "imageCredit": "이미지: Runway"
+   }
+  ]
+ },
+ {
   "id": "2026-10-w4",
   "label": "10월 4주차",
   "range": "10.26 – 10.31",
