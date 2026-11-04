@@ -4,8 +4,83 @@
   "label": "11월 1주차",
   "range": "11.2 – 11.8",
   "coverTitle": "11월 1주차 AI 소식",
-  "coverSubtitle": "OpenAI LifeVal과 Claude API 메시지 스레드부터 Runway의 Cursor 플러그인까지",
+  "coverSubtitle": "Anthropic FlashProve와 ChatGPT 음성 금융 상담부터 Claude API 메시지 스레드까지",
   "news": [
+   {
+    "company": "Anthropic",
+    "category": "opensource",
+    "date": "2026-11-03",
+    "title": "이 답, 진짜 그 AI가 했을까?\nAnthropic FlashProve 공개",
+    "summary": [
+     "Anthropic이 AI 답변이 정말 특정 모델에서 나왔는지 증명하는 기술 FlashProve를 공개했어요.",
+     "암호학 기술을 바탕으로 했고, 기존 오픈소스 방법보다 훨씬 효율적이라고 해요.",
+     "코드도 오픈소스로 풀어서 채팅 가로채기 방지나 안전 평가에 누구나 쓸 수 있어요."
+    ],
+    "source": "Anthropic",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-3.jpg",
+    "imageCredit": "이미지: Anthropic"
+   },
+   {
+    "company": "ChatGPT",
+    "category": "tool",
+    "date": "2026-11-03",
+    "title": "내 돈 이야기를 말로\nChatGPT 음성, 금융 기능에 쏙",
+    "summary": [
+     "ChatGPT의 금융 기능(Finances)에서 이제 음성 대화를 쓸 수 있어요.",
+     "계좌를 안전하게 연결한 뒤 지출이나 저축에 대해 말로 물어보면 돼요.",
+     "돈 관련 궁금한 점을 타자 없이 편하게 상담할 수 있어요."
+    ],
+    "source": "X @ChatGPT",
+    "url": "https://x.com/ChatGPT/status/2117678200700682732",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-4.jpg",
+    "imageCredit": "이미지: OpenAI"
+   },
+   {
+    "company": "OpenAI",
+    "category": "tool",
+    "date": "2026-11-03",
+    "title": "CAD·회로 설계도 돕는다\nChatGPT·Codex 하드웨어 엔지니어링",
+    "summary": [
+     "OpenAI가 ChatGPT와 Codex로 실제 물건을 설계하는 엔지니어를 돕는 사례를 공개했어요.",
+     "기계 설계(CAD), 전자 회로 기판(PCB) 설계, 시뮬레이션 작업을 더 빠르게 해 준대요.",
+     "OpenAI 하드웨어 팀과 업계 협력사가 이런 새 작업 방식을 시험하고 있어요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-5.jpg",
+    "imageCredit": "이미지: OpenAI"
+   },
+   {
+    "company": "Google DeepMind",
+    "category": "tool",
+    "date": "2026-11-03",
+    "title": "신약 후보를 AI 에이전트가\nAntigravity 화학정보 스킬",
+    "summary": [
+     "구글 딥마인드가 Google Antigravity로 신약 개발 작업을 돕는 방법을 소개했어요.",
+     "새 화학정보(Cheminformatics) 스킬로 화합물을 검색하고 분석할 수 있어요.",
+     "에이전트가 새로운 약물 구조 후보까지 직접 제안해 연구 속도를 높여 줘요."
+    ],
+    "source": "Google DeepMind 블로그",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-6.jpg",
+    "imageCredit": "이미지: Google DeepMind"
+   },
+   {
+    "company": "Perplexity",
+    "category": "tool",
+    "date": "2026-11-03",
+    "title": "광고·메일·쇼핑몰 운영까지\nPerplexity Computer 이커머스",
+    "summary": [
+     "Perplexity Computer로 온라인 쇼핑몰 운영을 통째로 자동화할 수 있게 됐어요.",
+     "Meta 광고, Klaviyo 이메일 마케팅, Shopify 스토어를 Computer 안에서 바로 다뤄요.",
+     "작은 쇼핑몰도 AI 하나로 광고와 매장 관리를 함께 할 수 있어요."
+    ],
+    "source": "X @perplexity_ai",
+    "url": "https://x.com/perplexity_ai/status/2117659447518740960",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-7.jpg",
+    "imageCredit": "이미지: Perplexity"
+   },
    {
     "company": "OpenAI",
     "category": "model",
