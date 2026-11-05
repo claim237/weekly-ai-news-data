@@ -4,8 +4,64 @@
   "label": "11월 1주차",
   "range": "11.2 – 11.8",
   "coverTitle": "11월 1주차 AI 소식",
-  "coverSubtitle": "Anthropic FlashProve와 ChatGPT 음성 금융 상담부터 Claude API 메시지 스레드까지",
+  "coverSubtitle": "ChatGPT Images 2.6과 Claude 볼트 입자 연구부터 Decisions API 웹 그라운딩까지",
   "news": [
+   {
+    "company": "OpenAI",
+    "category": "media",
+    "date": "2026-11-04",
+    "title": "GIF까지 되는 이미지\nChatGPT Images 2.6",
+    "summary": [
+     "OpenAI가 ChatGPT·Codex·API에 Images 2.6을 공개했어요.",
+     "이미지 생성이 이전보다 약 50% 빨라졌고, 프롬프트나 사진으로 루프 GIF도 만들 수 있어요.",
+     "API에는 Flare와 Sunburst 두 모델이 추가됐고, 마크업 편집과 SVG 내보내기도 지원해요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-1.jpg",
+    "imageCredit": "이미지: OpenAI"
+   },
+   {
+    "company": "Anthropic",
+    "category": "tip",
+    "date": "2026-11-04",
+    "title": "세균 속 볼트 입자 구조\nClaude로 처음 풀어냈어요",
+    "summary": [
+     "Anthropic 생물학 연구팀이 Claude와 함께 원핵생물 볼트 입자의 3D 구조를 처음 밝혀냈어요.",
+     "단백질 검색부터 DNA 설계, 분리 방법, 현미경 데이터 처리까지 Claude가 단계마다 도왔어요.",
+     "기존에 며칠 걸리던 정제를 약 90분으로 줄였고, 나노캡슐 같은 바이오 활용 가능성도 제시했어요."
+    ],
+    "source": "Anthropic",
+    "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-8.jpg",
+    "imageCredit": "이미지: Anthropic"
+   },
+   {
+    "company": "Claude",
+    "category": "tool",
+    "date": "2026-11-04",
+    "title": "백그라운드 서브에이전트\n사용량 부담이 확 줄었어요",
+    "summary": [
+     "Claude Code의 백그라운드 서브에이전트가 사용 한도를 훨씬 덜 쓰도록 바뀌었어요.",
+     "상태줄 업데이트를 전체 대화를 다시 읽는 대신 Haiku 5.5가 짧은 메모로 쓰게 해서 비용이 약 99% 줄었대요.",
+     "Pro·Max·Ultra 대부분과 Team·Enterprise에서 쓸 수 있고, v2.1.316 이상으로 업데이트하면 돼요."
+    ],
+    "source": "X @ClaudeDevs",
+    "url": "https://x.com/ClaudeDevs/status/2118063143167693011"
+   },
+   {
+    "company": "Perplexity",
+    "category": "tool",
+    "date": "2026-11-04",
+    "title": "결정 전에 웹을 먼저 봐요\nDecisions API 웹 그라운딩",
+    "summary": [
+     "Perplexity Decisions API에 웹 그라운딩 모드가 추가됐어요.",
+     "요청에 mode를 web_grounding으로 넣으면 질문마다 최신 웹 검색 결과를 근거로 붙여 답을 내요.",
+     "시시각각 바뀌는 사실 질문에서 정확도가 크게 올라갔고, 보통 응답은 400ms 안쪽이라고 해요."
+    ],
+    "source": "Perplexity",
+    "url": "https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api"
+   },
    {
     "company": "Anthropic",
     "category": "opensource",
