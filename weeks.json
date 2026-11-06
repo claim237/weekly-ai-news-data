@@ -4,8 +4,83 @@
   "label": "11월 1주차",
   "range": "11.2 – 11.8",
   "coverTitle": "11월 1주차 AI 소식",
-  "coverSubtitle": "ChatGPT Images 2.6과 Claude 볼트 입자 연구부터 Decisions API 웹 그라운딩까지",
+  "coverSubtitle": "GPT‑6 Cyber와 Claude 개인 금융부터 Gemini Omni 1.2 Flash·Cursor 라이브 앱까지",
   "news": [
+   {
+    "company": "OpenAI",
+    "category": "model",
+    "date": "2026-11-05",
+    "title": "보안 연구용 새 모델\nGPT‑6 Cyber 공개",
+    "summary": [
+     "OpenAI가 취약점을 찾고 검증하는 보안 연구용 모델 GPT‑6 Cyber를 공개했어요.",
+     "ExploitGym 점수가 이전 대비 약 51% 올랐고, 정해진 범위 밖으로 나가지 않도록 맞춘 정렬도 크게 강화됐어요.",
+     "Firefox·리눅스 커널에서 실제 취약점을 찾는 데 쓰였고, Daybreak Red 승인 고객부터 API와 Codex로 제공돼요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-9.jpg",
+    "imageCredit": "이미지: OpenAI"
+   },
+   {
+    "company": "Claude",
+    "category": "tool",
+    "date": "2026-11-05",
+    "title": "내 통장 이야기, 말로\nClaude 개인 금융 베타",
+    "summary": [
+     "Anthropic이 Claude에 Personal Finance 기능을 미국 Pro·Max·Ultra 요금제 베타로 열었어요.",
+     "Plaid로 은행·카드를 연결하면 잔액·지출·구독을 쉬운 말로 물어볼 수 있고, 읽기 전용이라 돈을 옮기지는 못해요.",
+     "광고나 추천 상품이 없고, Personal Finance 허브 대화는 모델 학습에 쓰이지 않는다고 밝혔어요."
+    ],
+    "source": "Claude",
+    "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-10.jpg",
+    "imageCredit": "이미지: Claude"
+   },
+   {
+    "company": "Google",
+    "category": "media",
+    "date": "2026-11-05",
+    "title": "영상 15초까지, 가격도 내려\nGemini Omni 1.2 Flash",
+    "summary": [
+     "Google이 동영상 생성 모델 Gemini Omni 1.2 Flash를 Gemini API와 Google Cloud에 정식 출시했어요.",
+     "클립이 최대 15초로 늘어났고, 대화형으로 장면을 고칠 수 있으며 가격은 이전보다 약 30% 낮아졌어요.",
+     "참고 이미지·짧은 동작·음성을 더 잘 따라가고, Flow·Vids·Gemini 앱에도 순차 적용돼요."
+    ],
+    "source": "Google 블로그",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-11.jpg",
+    "imageCredit": "이미지: Google"
+   },
+   {
+    "company": "Cursor",
+    "category": "tool",
+    "date": "2026-11-05",
+    "title": "로컬에만 두지 말고\nCursor가 앱을 바로 배포해요",
+    "summary": [
+     "Cursor가 클라우드 에이전트로 웹 앱을 만들고 DB·로그인·호스팅까지 준비한 뒤 링크로 공유하는 기능을 냈어요.",
+     "게시 전에 규칙 기반·에이전트 보안 검사를 돌리고, 통과한 뒤에만 직접 게시할 수 있어요.",
+     "유료 플랜에서 클라우드 에이전트를 켠 경우 쓸 수 있고, 팀·개인별 공유 범위도 고를 수 있어요."
+    ],
+    "source": "Cursor",
+    "url": "https://cursor.com/changelog",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-12.jpg",
+    "imageCredit": "이미지: Cursor"
+   },
+   {
+    "company": "NVIDIA",
+    "category": "opensource",
+    "date": "2026-11-05",
+    "title": "운전·로봇 시뮬용\nCosmos 3 오픈 모델 4종",
+    "summary": [
+     "NVIDIA가 상호작용 월드 시뮬레이션용 Cosmos 3 Nano 체크포인트 4종을 오픈 웨이트로 공개했어요.",
+     "다중 카메라·LiDAR 주행 데이터 생성부터 시뮬 제어→영상, 양팔 로봇 동작→영상까지 다루어요.",
+     "파라미터는 약 160억이고 OpenMDW 1.1 라이선스라, Hugging Face에서 내려받아 후학습할 수 있어요."
+    ],
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-13.jpg",
+    "imageCredit": "이미지: NVIDIA"
+   },
    {
     "company": "OpenAI",
     "category": "media",
