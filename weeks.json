@@ -4,8 +4,83 @@
   "label": "11월 1주차",
   "range": "11.2 – 11.8",
   "coverTitle": "11월 1주차 AI 소식",
-  "coverSubtitle": "GPT‑6 Cyber와 Claude 개인 금융부터 Gemini Omni 1.2 Flash·Cursor 라이브 앱까지",
+  "coverSubtitle": "카카오 Kanana-2-v-decide·Claude 드리밍 메모리부터 Muse Spaces·BioBasicsBench·ChatGPT Remix까지",
   "news": [
+   {
+    "company": "카카오",
+    "category": "korea",
+    "date": "2026-11-06",
+    "title": "에이전트 판단 전용\n카카오 Kanana-2-v-decide",
+    "summary": [
+     "카카오가 AI 에이전트의 판단·선택을 돕는 멀티모달 모델 Kanana-2-v-decide를 허깅페이스에 오픈소스로 공개했어요.",
+     "문장을 쓰지 않고 확률·선택·점수로만 답해서 H200 기준 평균 0.04초 안에 응답하고, GPT‑6 Luna보다 약 43배 빠르다고 해요.",
+     "텍스트와 이미지를 함께 보고 도구 선택·문의 분류에 쓸 수 있고, 상업 이용이 가능한 카나나 오픈 라이선스예요."
+    ],
+    "source": "카카오",
+    "url": "https://www.kakaocorp.com/page/detail/12193",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-14.jpg",
+    "imageCredit": "이미지: 카카오"
+   },
+   {
+    "company": "Anthropic",
+    "category": "tip",
+    "date": "2026-11-06",
+    "title": "잠든 사이에 기억을 정리\nClaude 에이전트 드리밍",
+    "summary": [
+     "Anthropic이 에이전트 메모리를 어떻게 설계하는지, 그리고 ‘드리밍’으로 기억을 고치고 정리하는 방법을 엔지니어링 글로 공개했어요.",
+     "세션이 끝난 뒤 로그를 다시 보며 잘못된 메모를 고치고, 위키 같은 연결 구조를 만들어 다음번에 찾기 쉽게 해요.",
+     "포켓몬·문서 검색 같은 평가에서 드리밍이 실수를 줄이고 긴 작업을 더 잘 이어가게 돕는다고 설명했어요."
+    ],
+    "source": "Anthropic",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-15.jpg",
+    "imageCredit": "이미지: Anthropic"
+   },
+   {
+    "company": "Meta",
+    "category": "tool",
+    "date": "2026-11-06",
+    "title": "말로 만든 맞춤 화면\nMuse 앱에 Spaces",
+    "summary": [
+     "Meta가 Muse 앱에 Spaces를 열어, 아이디어를 말하면 선물 추적·여행 계획 같은 나만의 화면을 만들어 준다고 했어요.",
+     "사이드바나 메인 탭에 두고 요일마다 바꿔 둘 수 있고, 연결된 앱 정보로 공간이 알아서 최신 상태를 유지해요.",
+     "Muse가 있는 곳에서는 바로 쓸 수 있고, 나중에 다른 사람과 공간을 나누는 기능도 준비 중이에요."
+    ],
+    "source": "Meta",
+    "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-16.jpg",
+    "imageCredit": "이미지: Meta"
+   },
+   {
+    "company": "OpenAI",
+    "category": "tip",
+    "date": "2026-11-06",
+    "title": "실험실 데이터 읽는 AI\nBioBasicsBench 공개",
+    "summary": [
+     "OpenAI가 젖은 실험실(wet lab)의 일상 분석 100개 과제로 AI 에이전트를 재는 BioBasicsBench를 공개했어요.",
+     "젤·현미경·기기 화면 같은 날것 데이터를 보고 오류를 찾고, 근거가 부족하면 결론을 내지 않는지도 함께 봐요.",
+     "가장 높은 추론 설정에서 GPT‑6 Astra가 평균 66.7%를 받아 GPT‑5.6 Sol의 43.8%보다 크게 앞섰어요."
+    ],
+    "source": "OpenAI",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-17.jpg",
+    "imageCredit": "이미지: OpenAI"
+   },
+   {
+    "company": "ChatGPT",
+    "category": "tool",
+    "date": "2026-11-06",
+    "title": "동료 사이트를 내 버전으로\nChatGPT Remix 롤아웃",
+    "summary": [
+     "ChatGPT가 동료가 만든 사이트를 말로 고쳐 내 복사본을 만드는 Remix 기능을 Business·Enterprise에 풀기 시작했어요.",
+     "바꾸고 싶은 점을 채팅으로 말하면 새 버전이 만들어지고, 그다음에도 대화로 계속 다듬을 수 있어요.",
+     "팀에서 만든 결과물을 각자 취향·요구에 맞게 빠르게 다시 쓸 때 쓰기 좋아요."
+    ],
+    "source": "X @ChatGPT",
+    "url": "https://x.com/ChatGPT/status/2118827837239226387",
+    "image": "https://claim237.github.io/weekly-ai-news-data/images/w1-18.jpg",
+    "imageCredit": "이미지: ChatGPT"
+   },
    {
     "company": "OpenAI",
     "category": "model",
